@@ -1,11 +1,16 @@
 _repo: Slavery-as-an-industrial-system-b-Ethnological-researches-Second-revised-edition_74463
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74463-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Nieboer, H. J.
     gutenberg_agent_id: '57515'
     url: http://www.gutenberg.org/2009/agents/57515
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74463#Slavery-as-an-industrial-system-b-Ethnological-researches-Second-revised-edition
 gutenberg_issued: '2024-09-23'
 gutenberg_type: Text
 identifiers:
